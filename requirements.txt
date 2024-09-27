@@ -1,0 +1,10 @@
+streamlit
+comtypes
+pdf2image
+Pillow
+transformers
+torch
+pytesseract
+easyocr
+reportlab
+PyMuPDF
