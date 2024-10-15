@@ -16,7 +16,7 @@
 
 1. 저장소를 클론합니다:
    ```
-   git clone https://github.com/yourusername/multi-file-parser-app.git
+   git clone https://github.com/nakjun/python-data-parser.git
    ```
 
 2. 필요한 라이브러리를 설치합니다:
@@ -27,7 +27,7 @@
 3. 애플리케이션을 실행합니다:
    ```
    streamlit run main.py
-   streamlit run main.py --server.port 9999 # 포트 변경
+   streamlit run main.py --server.port 9999 # 원하는 포트로 변경가능
    ```
 
 ## 사용 방법 🖥️
@@ -42,9 +42,9 @@
 프로젝트에 기여하고 싶으신가요? 훌륭합니다! 다음 단계를 따라주세요:
 
 1. 이 저장소를 포크합니다.
-2. 새 브랜치를 만듭니다 (`git checkout -b feature/AmazingFeature`).
-3. 변경 사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`).
-4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`).
+2. 새 브랜치를 만듭니다 (`git checkout -b feature/Features`).
+3. 변경 사항을 커밋합니다 (`git commit -m 'Add some Features'`).
+4. 브랜치에 푸시합니다 (`git push origin feature/Features`).
 5. Pull Request를 열어주세요.
 
 ## 연락처 📧
