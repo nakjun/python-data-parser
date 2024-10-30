@@ -123,7 +123,7 @@ def convert_table_to_markdown(table):
 
 if __name__ == "__main__":
     # PDF 파일 경로
-    pdf_file_path = "test_set/삼정 수소생산.pdf"
+    pdf_file_path = "제58회 발명의날 기념식_산출내역서(최종).pdf"
 
     # PDF를 Markdown으로 변환
     markdown_content = convert_pdf_to_markdown(pdf_file_path)
